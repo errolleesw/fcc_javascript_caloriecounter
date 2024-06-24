@@ -1,0 +1,1 @@
+This is the example code from the FCC JS Algo and Data course - Calorie Counter project. See https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-form-validation-by-building-a-calorie-counter/
